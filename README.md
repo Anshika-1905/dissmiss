@@ -46,8 +46,6 @@ Copy code
 PORT=3000
 MONGODB_URI=your-mongodb-uri
 Start the server:
-
-sql
 Copy code
 npm start
 Visit http://localhost:3000 in your browser to view the website.
